@@ -1,0 +1,5 @@
+/.vs/*
+/Debug/*
+/x64/*
+/KeyPad/Debug/*
+/KeyPad/x64/*
