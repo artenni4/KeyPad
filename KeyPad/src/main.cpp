@@ -28,17 +28,17 @@
 
 
 /*
-Можно добавить
+Possible improvements
 
-При первом запуске показывать управление
-Сделать переназначение клавиш
+Show controls during first start
+Controls reassignment
 GUI
-Сворачивание приложеения в трей
-Работа со стандартной osk
+Close application to tray
+Make work with osk(virtual keyboard)
 
-Баги
-Не рабатает во время MessageBox
-Не работает стандратная osk
+Bugs
+Do not works during MessageBox
+Standart osk do not works
 
 */
 
